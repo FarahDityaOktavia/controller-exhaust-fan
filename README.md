@@ -12,8 +12,3 @@ The components used are:
 3. Controller
 4. Power supply
 5. 16x2 LCD
-
-The following is a design that has been completed.
-![Schematic design](images/sch.png)
-![Board design](images/brd.png)
-![3D design](images/3d.png)(images/3d left.png)
